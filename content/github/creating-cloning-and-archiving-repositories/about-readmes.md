@@ -43,3 +43,4 @@ Many projects use a table of contents at the start of a README to direct users t
 
 - "[Adding a file to a repository](/articles/adding-a-file-to-a-repository)"
 - 18F's "[Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)"
+- "[Providing clarity to how it works](/howto/provide-clarity.md)"
